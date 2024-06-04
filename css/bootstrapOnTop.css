@@ -1,0 +1,36 @@
+header {
+    background-color: #63005e;
+}
+
+header h1 {
+    padding-top: 0.5rem;
+    font-size: 1.95rem;
+}
+
+header h2 {
+    padding-right: 0.2rem;
+    font-size: 1.05rem;
+}
+
+header h1,
+header h2 {
+    margin: 0;
+    color: #fff;
+    font-weight: 300;
+    font-style: italic;
+}
+
+header img {
+    float: left;
+    height: 85px;
+    padding-right: 10px;
+}
+
+footer{
+    background-color: #63005e;
+    color: white;
+}
+
+.bg-light{
+    background-color: #23cfa7 !important;
+}
